@@ -1,4 +1,4 @@
 <?php
-phpinfo();
+phpinfo1();
 ?>
 //34234
